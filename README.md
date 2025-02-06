@@ -8,8 +8,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=Julypie7&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Julypie7&theme=merko&hide_border=false)<br/>
 ![Julypie7's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Julypie7&theme=merko&show_icons=true&hide_border=true&layout=compact)
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Julypie7&theme=merko&no-frame=false&no-bg=true&margin-w=4)
 
 
 
